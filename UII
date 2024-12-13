@@ -1,0 +1,5 @@
+local Ver = "Version: "1"
+local Dis = ""
+
+getgenv().Discord = Dis
+getgenv().Version = Ver
